@@ -1,5 +1,6 @@
 /**
  *@param {number[]} nums
+ *@return {void}
  */
 function removeDuplicates(nums) {
     let currentIndex = 0
