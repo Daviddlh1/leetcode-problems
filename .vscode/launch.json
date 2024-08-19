@@ -13,7 +13,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/easy/arrays-and-strings-card/498-diagonal-traverse/solution.js",
+            "program": "${workspaceFolder}/medium/54-spiral-matrix/solution.js",
             "runtimeExecutable": "/Users/david/.nvm/versions/node/v20.10.0/bin/node"
         }
     ]
