@@ -13,7 +13,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/medium/54-spiral-matrix/solution.js",
+            "program": "${workspaceFolder}/easy/118-pascals-triangle/solution.js",
             "runtimeExecutable": "/Users/david/.nvm/versions/node/v20.10.0/bin/node"
         }
     ]
